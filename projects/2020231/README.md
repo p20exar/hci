@@ -7,7 +7,7 @@
  Github Profile/Username: [p20exar](https://github.com/p20exar)  
  ΑΜ: 2020231  
  Οργανισμός: [Cat-a-strophe](https://github.com/Cat-a-strophe)  
- Edpuzzle Username: [p20exar](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)  
+ Edpuzzle Profile/Username: [p20exar](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)  
 
  
    
