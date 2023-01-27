@@ -7,7 +7,9 @@
  Github Profile/Username: [p20exar](https://github.com/p20exar)  
  ΑΜ: 2020231  
  Οργανισμός: [Cat-a-strophe](https://github.com/Cat-a-strophe)  
- Edpuzzle Profile: [Agni Exarchou 2020231](https://edpuzzle.com/profile)  
+ Edpuzzle Username: [p20exar](https://edpuzzle.com/classes/63398b5f9fadbe4119d673a5)  
+
+ 
    
   <br /><br />    
  ## Πίνακας Περιεχομένων  
